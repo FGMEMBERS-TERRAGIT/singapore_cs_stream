@@ -1,1 +1,1 @@
-Custom Landclass for Singapore
+Custom Stream Landclass for Singapore
