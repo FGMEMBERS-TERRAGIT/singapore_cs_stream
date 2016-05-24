@@ -1,1 +1,1 @@
-# singapore_cs_stream
+Custom Landclass for Singapore
